@@ -16,6 +16,7 @@ In 2018, I moved to Switzerland to pursue my Ph.D. at École polytechnique féd�
 I conducted my research at the Earthquake Engineering and Structural Dynamics (EESD) laboratory under the supervision of Prof. Katrin Beyer from 2018 to 2022.
 After that, I worked for a brief period as a postdoctoral fellow at EESD (4 months).
 After I was awarded the prestigious PostDoc.Mobility grant from the Swiss National Science Foundation (SNSF), I moved to the USA to join the van Rees laboratory (led by Prof. Wim van Rees).
+Currently, I work with Prof. Josip Atalić as a senior scientist at the Croatian Centre for Earthquake Engineering in the University of Zagreb (UniZg).
 
 
 ## Contact info
