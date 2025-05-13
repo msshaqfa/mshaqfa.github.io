@@ -1,4 +1,9 @@
 ---
+layout: home
+title: Welcome!
+---
+
+---
 Mahmoud S. M. Shaqfa
 ---
 
