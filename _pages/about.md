@@ -61,7 +61,7 @@ During my academic career, I developed an interest in a variety of topics, all o
 </div>
 -->
 ### Manifold harmonics (MH)
-
+This ongoing work focuses on surface parametrization, with further results and details to be presented in due course.
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <div>
     <img src="/GIFs/Beetle_harmonics.gif" alt="GIF 1" style="height: 250px; object-fit: cover;" />
