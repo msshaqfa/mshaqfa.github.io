@@ -7,92 +7,79 @@ redirect_from:
   - /about.html
 ---
 
-About me
-======
-I obtained my Bachelor's degree in civil engineering at the Islamic University of Gaza (IUG) in 2014. Later, I received my Master's in structural engineering from the University of Pécs in 2017 (Hungary). In 2018, I moved to Switzerland to pursue my Ph.D. at École polytechnique fédérale de Lausanne (EPFL). I conducted my research at the Earthquake Engineering and Structural Dynamics (EESD) laboratory under the supervision of Prof. Katrin Beyer from 2018 to 2022. After that, I worked for a brief period as a postdoctoral fellow at EESD (4 months). After I was awarded the prestigious PostDoc.Mobility grant from the Swiss National Science Foundation (SNSF), I moved to the USA to join the van Rees laboratory (led by Prof. Wim van Rees). Currently, I work with Prof. Josip Atalić as a senior scientist at the Croatian Centre for Earthquake Engineering in the University of Zagreb (UniZg).
+# Welcome
+
+**Mahmoud S. M. Shaqfa**
+
+---
+
+## About
+
+I obtained my Bachelor's degree in Civil Engineering at the Islamic University of Gaza (IUG) in 2014.
+Later, I received my Master's in Structural Engineering from the University of Pécs in 2017 (Hungary).
+In 2018, I moved to Switzerland to pursue my Ph.D. at École Polytechnique Fédérale de Lausanne (EPFL), conducting research at the Earthquake Engineering and Structural Dynamics (EESD) Laboratory under the supervision of Prof. Katrin Beyer from 2018 to 2022.
+
+After that, I briefly worked as a postdoctoral fellow at EESD for 4 months.
+In 2023, after being awarded the prestigious PostDoc.Mobility grant from the Swiss National Science Foundation (SNSF), I moved to the USA to join the van Rees Laboratory (led by Prof. Wim van Rees at MIT).
+
+Currently, I work with Prof. Josip Atalić as a senior scientist at the Croatian Centre for Earthquake Engineering at the University of Zagreb (UniZg).
+
+---
+
+## Contact
+
+- 📧 Email (personal): [msshaqfa@hotmail.com](mailto:msshaqfa@hotmail.com)
+- 📧 Email (academic): [mshaqfa@mit.edu](mailto:mshaqfa@mit.edu)
+
+---
+
+## Research Theses and Proposals
+
+1. **M.Sc.**:
+   [Design of reinforced concrete beams using metaheuristic algorithms](https://link.springer.com/article/10.1007/s00158-019-02252-4)
+   *(Prof. Zoltan Orban, PTE, 2018)*
+
+2. **Ph.D.**:
+   [Geometrical treatise on the modelling of 3D particulate inclusion-matrix microstructures with an application to historical stone masonry walls](https://infoscience.epfl.ch/record/297175?ln=en&v=pdf)
+   *(Prof. Katrin Beyer, EPFL, 2022)*
+
+3. **PostDoc**:
+   [Harmonic decomposition of the 3D morphology of surfaces for simulating the growth of soft shells and plates](https://data.snf.ch/grants/grant/211088)
+   *(Prof. Wim M. van Rees, MIT, 2024)*
+
+---
+
+## Research Works and Interests
+
+During my academic career, I developed an interest in a variety of topics, all of which converge around geometry, shapes, topology, and optimization problems—often with an engineering flavor. These areas demand in-depth knowledge of numerical methods such as Galerkin approaches, Discrete Exterior Calculus, and spectral methods.
+
+---
+
+## Galery
+<!--<div style="text-align: center;">
+  <img src="/GIFs/Beetle_harmonics.gif" alt="Animation" width="300" />
+</div>
+-->
+### Manifold harmonics (MH)
+
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <div>
+    <img src="/GIFs/Beetle_harmonics.gif" alt="GIF 1" style="height: 250px; object-fit: cover;" />
+    <p style="margin-top: 5px;">Harmonic basis (Eigen problem)</p>
+  </div>
+  <div>
+    <img src="/GIFs/Beetle_rec.gif" alt="GIF 2" style="height: 250px; object-fit: cover;" />
+    <p style="margin-top: 5px;">Harmonic reconstruction</p>
+  </div>
+</div>
 
 
+### Spheroidal harmonics (SOH)
+This is from our new paper that generalizes the traditional **spherical** harmonics approach (SH).
+<div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
+  <div>
+    <img src="/GIFs/max_reconstruction_full.gif" alt="GIF 1" style="height: 250px; object-fit: cover;" />
+    <p style="margin-top: 5px;">Surface reconstruction of Max Planck's head bust</p>
+  </div>
+</div>
 
-
-
-
-
-Contact info
-======
-Email: [Mahmoud Shaqfa (personal)](mailto:msshaqfa@hotmail.com)
-Email: [Mahmoud Shaqfa (MIT)](mailto:mshaqfa@mit.edu)
-
-
-My research theses and proposals
-======
-1. M.Sc.: [Design of reinforced concrete beams using metaheuristic algorithms](https://link.springer.com/article/10.1007/s00158-019-02252-4) (Prof. Zoltan Orban [PTE] @ 2018).
-2. Ph.D.: [Geometrical treatise on the modelling of 3D particulate inclusion-matrix microstructures with an application to historical stone masonry walls](https://infoscience.epfl.ch/record/297175?ln=en&v=pdf) (Prof. Katrin Beyer [EPFL] @ 2022).
-3. PostDoc: [Harmonic decomposition of the 3D morphology of surfaces for simulating the growth of soft shells and plates](https://data.snf.ch/grants/grant/211088) (Prof. Wim M. van Rees [MIT] @ 2024).
-
-Research profiles
-======
-1. [Google Scholar](https://scholar.google.ch/citations?user=yaTyu9MAAAAJ&hl=en)
-2. [Research Gate](https://www.researchgate.net/profile/Mahmoud-Shaqfa)
-3. [LinkedIn](linkedin.com/in/mahmoud-shaqfa)
-4. [ORCID: 0000-0002-0136-2391](https://orcid.org/my-orcid?orcid=0000-0002-0136-2391)
-5. [Scopus ID](https://www.scopus.com/authid/detail.uri?authorId=57208226972)
-
-Research works and interests
-======
-
-
-
-
-
-
-
-
-
-
-
-
-
-Other stuff
-======
-
-
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
-
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
-
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
-
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
