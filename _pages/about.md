@@ -53,13 +53,12 @@ Currently, I work with Prof. Josip Atalić as a senior scientist at the Croatian
 
 During my academic career, I developed an interest in a variety of topics, all of which converge around geometry, shapes, topology, and optimization problems—often with an engineering flavor. These areas demand in-depth knowledge of numerical methods such as Galerkin approaches, Discrete Exterior Calculus, and spectral methods.
 
+**Keywords**: Solid Mechnanics, Fractal surfaces, Morphology, Computational geometry, Metaheuristics, Optimization, Fracture mechanics, Masonry structures, Rough contacts, CAD.
+
 ---
 
 ## Galery
-<!--<div style="text-align: center;">
-  <img src="/GIFs/Beetle_harmonics.gif" alt="Animation" width="300" />
-</div>
--->
+
 ### Manifold harmonics (MH)
 This ongoing work focuses on surface parametrization, with further results and details to be presented in due course.
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
@@ -73,13 +72,24 @@ This ongoing work focuses on surface parametrization, with further results and d
   </div>
 </div>
 
-
 ### Spheroidal harmonics (SOH)
-This is from our new paper that generalizes the traditional **spherical** harmonics approach (SH).
+This is from our new paper [1] that generalizes the traditional **spherical** harmonics approach (SH).
 <div style="display: flex; justify-content: center; gap: 20px; text-align: center;">
   <div>
     <img src="/GIFs/max_reconstruction_full.gif" alt="GIF 1" style="height: 250px; object-fit: cover;" />
     <p style="margin-top: 5px;">Surface reconstruction of Max Planck's head bust</p>
   </div>
 </div>
+
+
+
+
+---
+## References
+
+[1] Mahmoud Shaqfa and Wim M. van Rees.
+*Spheroidal harmonics for generalizing the morphological decomposition of closed parametric surfaces*.
+**Construction and Building Materials**, Vol. 454, 2024, Article 138967.
+[https://doi.org/10.1016/j.conbuildmat.2024.138967](https://doi.org/10.1016/j.conbuildmat.2024.138967)
+
 
