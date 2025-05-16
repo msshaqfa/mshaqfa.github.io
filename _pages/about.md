@@ -83,6 +83,15 @@ This is from our new paper [1] that generalizes the traditional **spherical** ha
 
 
 
+### Remeshing microstructures of 2D contours
+
+Remeshing of closed contours to generate and parameterize 2D microstructures. In the Figure below, the first two rows show how the contours morph from low to high frequencies (k) and how the number of segment (s) affects the reconstruction; the contours were expanded with a maximum 2<sup>7</sup> harmonics. The last row shows the corresponding FEM mesh for different frequencies and segments to control the mesh refinements.
+
+<figure>
+  <img src="https://github.com/eesd-epfl/PIC2FEM/raw/master/refinments_EPFL.svg" alt="Refinement process for PIC2FEM" width="60%">
+  <figcaption style="text-align:center">Hierarchical remeshing of EPFL's logo for finite element meshing.</figcaption>
+</figure>
+
 
 ---
 ## References
