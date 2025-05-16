@@ -57,7 +57,7 @@ During my academic career, I developed an interest in a variety of topics, all o
 
 ---
 
-## Galery
+## Science Gallery
 
 ### Manifold harmonics (MH)
 This ongoing work focuses on surface parametrization, with further results and details to be presented in due course.
@@ -91,6 +91,13 @@ Remeshing of closed contours to generate and parameterize 2D microstructures. In
   <img src="https://github.com/eesd-epfl/PIC2FEM/raw/master/refinments_EPFL.svg" alt="Refinement process for PIC2FEM" width="60%">
   <figcaption style="text-align:center">Hierarchical remeshing of EPFL's logo for finite element meshing.</figcaption>
 </figure>
+
+
+
+
+
+
+
 
 
 ---
