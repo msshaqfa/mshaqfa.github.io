@@ -7,7 +7,7 @@ venue: "Massachusetts Institute of Technology (MIT), Department of Mechanical En
 date: 2024.01.01
 location: "Cambridge, MA, USA"
 ---
-I lectured on the usage of Galerkin approaches and their various formulations for plates and shells. I also developed a basic Python code for the analysis of thick plates based on Mindlin theory with mixed finite element formulation.
+As a guest lecturer, my task was to introduce students to the Galerkin approaches and their various formulations for plates and shells. I also developed a basic Python code for the analysis of thick plates based on Mindlin theory with hybrid finite element formulation.
 
 
 <figure>
