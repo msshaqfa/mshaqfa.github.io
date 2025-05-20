@@ -1,7 +1,7 @@
 ---
 title: "Nonlinear analysis of structures (CIVIL-449)"
 collection: teaching
-type: "Workshop"
+type: "Graduate course"
 permalink: /teaching/nonlinear_analysis
 venue: "École Polytechnique Fédérale de Lausanne (EPFL), School of Architecture, Civil and Environmental Engineering (ENAC)"
 date: 2019-01-01
